@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://i.imgur.com/xKZjAU0.jpg'); /* Replace with your image path */
+}
+
+.large-box {
+  
+  background-image: url('https://i.imgur.com/uNXcFwT.jpg'); /* Replace with your image path */
+  width: 85%;
+  height: 85vh; /* 90% of the viewport height */
+  background-size: cover;
+  background-position: center;
+  margin: 5vh auto; /* Center the box vertically */
+  /* Other styles for the box */
+}
+body {
+  
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif; /* Example font-family */
+
+
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.large-box {
+  width: 90%;
+  height: 90vh; /* 90% of the viewport height */
+  margin: 5vh auto; /* Center the box vertically */
+  /* Other styles for the box */
+}
+.gif-container {
+  position: fixed;
+  bottom: 1000px; /* Adjust distance from the bottom */
+  right: 100px; /* Adjust distance from the right */
+}
+
+.gif-image {
+  width: 200px; /* Adjust the width of the GIF */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.gif-container2 {
+  position: static;
+  bottom: 200px; /* Adjust distance from the bottom */
+  right: 200px; /* Adjust distance from the right */
+}
+
+.gif-image2 {
+  width: 200px; /* Adjust the width of the GIF */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.gif-container3 {
+  position: sticky;
+  bottom: 10px; /* Adjust distance from the bottom */
+  right: 200px; /* Adjust distance from the right */
+}
+
+.gif-image3 {
+  width: 500px; /* Adjust the width of the GIF */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+.ric {
+  position: fixed;
+  top: 1px; /* Adjust distance from the bottom */
+  right: 1px; /* Adjust distance from the right */
+}
+
+.rick {
+  width: 200px; /* Adjust the width of the GIF */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.content {
+  font-size: 32px;
+  padding-left: 20px; /* Adjust the padding as needed */
+  padding-top: 20px; /* Adjust the padding as needed */
+  color: #856d99; /* Change text color to red (#FF0000) - Replace with your desired color */
+  /* Additional styles for the content inside the box */
+}
